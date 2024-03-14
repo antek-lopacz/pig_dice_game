@@ -4,9 +4,9 @@ Pig is a simple dice game. Players take turns to roll a single die as many times
 Knowing the rules of the game, I decided to try to recreate it in Python to stimulate my gray cells.
 
 # Backlog:
-[ ] repair bug
-  when player has 20 pts during one round he does not win immediately
-[ ] add the ability to add players' names
-[ ] add the possibility to play with more than 2 players
-[ ] create the option of two-dice Pig 
+- [ ] repair bug
+      when player has 20 pts during one round he does not win immediately
+- [ ] add the ability to add players' names
+- [ ] add the possibility to play with more than 2 players
+- [ ] create the option of two-dice Pig 
 
